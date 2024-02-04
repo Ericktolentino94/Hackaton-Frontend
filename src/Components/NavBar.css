@@ -2,13 +2,17 @@
     display: flex;
     overflow: hidden;
     position: fixed;
-    top: -4px;
+    top: 0; 
     width: 100%;
-    left: 0;
     height: 85px;
     font-size: 30px;
-    
-}
+    align-items: center; 
+  }
+  
+  .logo {
+    height: 60px; 
+    margin-right: 10px; 
+  }
 
 .navbar a {
     float: left;
@@ -17,7 +21,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: larger;
+    font-size: large;
 }
 
 .inner{
@@ -30,6 +34,7 @@
 }
 
 .navbar-text {
-    font-size: 30px;
+    font-size: 40px;
     color: white;
+    
 }
