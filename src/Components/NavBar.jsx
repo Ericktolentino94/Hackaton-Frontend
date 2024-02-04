@@ -15,7 +15,7 @@ export default function NavBar() {
 
                     </div>
                     <span className="navbar-text">
-                        Fast Food Location Finder
+                        Thrifty Eats
                     </span>
                 </div>
             </nav>

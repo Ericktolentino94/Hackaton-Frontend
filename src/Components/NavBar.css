@@ -5,7 +5,7 @@
     top: -4px;
     width: 100%;
     left: 0;
-    height: 80px;
+    height: 85px;
     font-size: 30px;
     
 }
@@ -25,10 +25,10 @@
 }
 
 .navbar a:hover {
-    background: #3a4664;
-    color: #f2f2f2;
+    background: #ddd;
+    color: black;
 }
 
 .navbar-text {
-    font-size: 20px;
+    font-size: 30px;
 }

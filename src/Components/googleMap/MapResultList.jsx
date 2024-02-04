@@ -34,7 +34,7 @@ const MapResultList = ({ places }) => {
                 Currenty Open:
               </th>
               <th >
-                Provided Image:
+                Provided Icon:
               </th>
             </tr>
           </thead>

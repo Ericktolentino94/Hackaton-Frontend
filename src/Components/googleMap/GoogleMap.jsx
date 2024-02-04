@@ -13,7 +13,7 @@ const searchDistance = 20500;
 const containerStyle = {
   width: "650px",
   height: "650px",
-  border: "2px solid brown",
+  border: "2px solid grey",
   "marginTop": "20px",
   "borderRadius": "10px"
 };

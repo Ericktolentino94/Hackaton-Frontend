@@ -2,6 +2,7 @@
 import React from "react"
 
 export default function Place({ place }) {
+    //console.log(place)
     return (
         <tr>
             <td>{place.name}</td>
