@@ -7,7 +7,7 @@ import Pagination from "../Pagination";
 const MapResultList = ({ places }) => {
   //const [items, setItems] = useState(places)
 // console.log(places)
-  let PageSize = 3
+  let PageSize = 4
   const [currentPageV2, setCurrentPageV2] = useState(1)
   const currentTableData = useMemo(() => {
     const firstPageIndex = (currentPageV2 - 1) * PageSize
