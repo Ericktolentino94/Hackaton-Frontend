@@ -19,7 +19,7 @@ export const Login = ({currentUser, setCurrentUser}) => {
     <div className="animate__animated animate__rotateIn">
       <section>
         <div className="login">
-          <button className="btn btn-dark btn-lg" onClick={ signInWithGoogle }>Sign in With google</button>
+          <button className="btn btn-dark btn-lg" onClick={ signInWithGoogle }>Sign in With Google</button>
       </div>
       </section>
 
